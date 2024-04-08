@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left"> - My name is Maksim. <br> - I'm beginner Software Engeneer. <br> - I'm currently studying at <a href=https://psu.by/en/>Polotsk State Univerisy</a>.</p>
+<p align="left"> - My name is Maksim. <br> - I'm beginner Software Engineer. <br> - I'm currently studying at <a href=https://psu.by/en/>Polotsk State Univerisy</a>.</p>
 
 ###
 
